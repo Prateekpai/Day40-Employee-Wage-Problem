@@ -1,1 +1,0 @@
-console.log("Welcome to Employee Wage Problem Using Java Script");
